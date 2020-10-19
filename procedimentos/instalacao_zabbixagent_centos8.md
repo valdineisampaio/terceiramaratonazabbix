@@ -29,7 +29,7 @@ dnf -y install zabbix-agent
 ### Editar arquivo de configuração do Zabbix Server
 
 ```bash
-vim zabbix_agentd.conf
+vim /etc/zabbix/zabbix_agentd.conf
 ```
 
 ```bash
